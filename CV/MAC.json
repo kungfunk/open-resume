@@ -51,19 +51,7 @@
       },
       {
         "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
           "type": "technology"
         }
       },
@@ -87,25 +75,7 @@
       },
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nginx",
           "type": "technology"
         }
       },
@@ -117,25 +87,7 @@
       },
       {
         "skill": {
-          "name": "NodeJS-(to delete)",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CoffeeScript",
           "type": "technology"
         }
       }
