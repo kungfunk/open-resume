@@ -131,6 +131,42 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Tictac Soluciones Informaticas",
+          "URL": "https://www.tictacsoluciones.com/"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack Developer / DevOps",
+            "startDate": "2013-10-01",
+            "finishDate": "2015-12-01",
+            "challenges": [
+              {
+                "description": "I worked as senior fullstack developer and tech lead developing web platforms, ecommerce platforms and customized management tools for SMEs (small and medium enterprises) and making the integration with payment gateways and Paypal. Development of a custom CMS for small business to reduce costs and optimize the money/time equation. Development of E-Learning platform for people who are preparing the oppositions for the Spanish Healthcare system. The platform has electronic payment for the courses, a test generator based in database with more than 80.000 different questions and a viewer for the related books. \n \nManaging high availability servers in Digital Ocean. \n \nImplementation of the system version control, priority tasks system, automated backups, etc. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
