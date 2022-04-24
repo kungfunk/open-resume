@@ -167,6 +167,37 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "DATACYL"
+        },
+        "roles": [
+          {
+            "name": "Junior Programmer",
+            "startDate": "2005-08-01",
+            "finishDate": "2006-08-01",
+            "challenges": [
+              {
+                "description": "I worked as junior programmer developing applications in Java, PHP and Oracle Databases for the healthcare system of Castilla y León, Cantabria and La Rioja."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
