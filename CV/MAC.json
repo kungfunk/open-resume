@@ -233,6 +233,49 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Freelance/Self-employed"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack Developer",
+            "startDate": "2008-09-01",
+            "finishDate": "2010-09-01",
+            "challenges": [
+              {
+                "description": "Working as programmer developing end to end web solutions for several partners, helping them to fulfill their needs on the internet and reach more clients."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
