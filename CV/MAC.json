@@ -198,6 +198,41 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Coidesit S.L."
+        },
+        "roles": [
+          {
+            "name": "Programmer Analyst",
+            "startDate": "2006-08-01",
+            "finishDate": "2008-09-01",
+            "challenges": [
+              {
+                "description": "I worked as senior programmer in this “startup” company. We used Agile development in PHP, Javascript, HTML and CSS, following best practices, and \ndesign patterns like DataMapper and MVC, testing, version control with Subversion. \n \nWe developed a suite of integrated web applications for collect and interpret data from the business activities from the company, including sales, inventory management, client management and human resources for a construction company in Madrid, using CakePHP and JQuery. Also design, development and implementation of websites with CMS like Joomla and Wordpress. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
