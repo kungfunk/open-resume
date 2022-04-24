@@ -69,6 +69,36 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Packlink"
+        },
+        "roles": [
+          {
+            "name": "Staff Software Engineer (Frontend)",
+            "startDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
