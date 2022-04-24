@@ -99,6 +99,38 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Previous Party",
+          "URL": "https://www.anaitgames.com"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack Developer (freelance)",
+            "startDate": "2011-06-01",
+            "finishDate": "2019-09-01",
+            "challenges": [
+              {
+                "description": "Developed a gaming community dynamic website with several thousand users with news, comments, forum and social functionalities fully in-house programmed using PHP, SlimPHP, MySQL, Nginx."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
