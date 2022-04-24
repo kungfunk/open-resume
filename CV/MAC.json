@@ -33,6 +33,45 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Cognizant"
+        },
+        "roles": [
+          {
+            "name": "Lead Frontend Engineer",
+            "startDate": "2015-12-01",
+            "finishDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": "Working as Lead FE engineer on several projects for an international bank. Mostly on Private Credits and housing domain (mortgages, personal credits, renovations...) developing multi platform applications using Angular (Typescript), Cordova for Frontend and Java, Docker and Kubernetes for backend among other technologies, under Agile (Scrum) metodologies.\nActing also as SPOC between client and our company managing a team of +/- 10 developers, interview conductor from Graduate to Senior developer levels and working developing POCs as FE developer for different clients on BFS domain."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
