@@ -8,8 +8,7 @@
     "profile": {
       "name": "Victor",
       "surnames": "Calzon",
-      "title": "",
-      "description": "Hi! I'm Victor and I've been developing for the web for almost 15 years already. I have experience in really small startups building the whole product and also in very big companies leading technical teams on isolated processes. I have experience in both BE (PHP and Java mostly) and FE, but during these last years I´ve been more focused on FE (Angular).\nI'm very passionate about clean architectures (DDD, hexagonal...) and quality processes (TDD, code review, pair programming) to achieve great maintainable code.",
+      "description": "Hi! I'm Victor and I've been developing for the web for almost 15 years already. I have experience in really small startups building the whole product and also in very big companies leading technical teams on isolated processes. I have experience in both BE (PHP, Node and Java mostly) and FE, but during these last years I´ve been more focused on FE (React and Angular).\nI'm very passionate about clean architectures (DDD, hexagonal...) and quality processes (TDD, code review, pair programming) to achieve great maintainable code.",
       "avatar": {
         "alt": "avatar2.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/24/3ca54d18-5339-4f12-83a7-73bde0570bfd_avatar2.png"
@@ -20,16 +19,16 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/victor-calzon-55847916/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/kungfunk"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/kungfunk"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/victor-calzon-55847916/"
       },
       {
         "type": "other",
@@ -39,6 +38,31 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Packlink"
+        },
+        "roles": [
+          {
+            "name": "Staff Software Engineer (Frontend)",
+            "startDate": "2020-09-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Cognizant"
@@ -55,81 +79,19 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
                 "type": "technology"
               },
               {
                 "name": "Cordova",
                 "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Packlink"
-        },
-        "roles": [
-          {
-            "name": "Staff Software Engineer (Frontend)",
-            "startDate": "2020-09-01",
-            "challenges": [
+              },
               {
-                "description": ""
-              }
-            ],
-            "competences": [
-              {
-                "name": "NodeJS",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Previous Party",
-          "URL": "https://www.anaitgames.com"
-        },
-        "roles": [
-          {
-            "name": "Full-Stack Developer (freelance)",
-            "startDate": "2011-06-01",
-            "finishDate": "2019-09-01",
-            "challenges": [
-              {
-                "description": "Developed a gaming community dynamic website with several thousand users with news, comments, forum and social functionalities fully in-house programmed using PHP, SlimPHP, MySQL, Nginx."
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "Nginx",
+                "name": "Kubernetes",
                 "type": "technology"
               }
             ]
@@ -153,15 +115,15 @@
             ],
             "competences": [
               {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
                 "name": "AngularJS",
                 "type": "technology"
               },
               {
                 "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
                 "type": "technology"
               },
               {
@@ -174,64 +136,30 @@
       },
       {
         "organization": {
-          "name": "DATACYL"
+          "name": "Previous Party",
+          "URL": "https://www.anaitgames.com"
         },
         "roles": [
           {
-            "name": "Junior Programmer",
-            "startDate": "2005-08-01",
-            "finishDate": "2006-08-01",
+            "name": "Full-Stack Developer (freelance)",
+            "startDate": "2011-06-01",
+            "finishDate": "2019-09-01",
             "challenges": [
               {
-                "description": "I worked as junior programmer developing applications in Java, PHP and Oracle Databases for the healthcare system of Castilla y León, Cantabria and La Rioja."
+                "description": "Developed a gaming community dynamic website with several thousand users with news, comments, forum and social functionalities fully in-house programmed using PHP, SlimPHP, MySQL, Nginx."
               }
             ],
             "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Coidesit S.L."
-        },
-        "roles": [
-          {
-            "name": "Programmer Analyst",
-            "startDate": "2006-08-01",
-            "finishDate": "2008-09-01",
-            "challenges": [
-              {
-                "description": "I worked as senior programmer in this “startup” company. We used Agile development in PHP, Javascript, HTML and CSS, following best practices, and \ndesign patterns like DataMapper and MVC, testing, version control with Subversion. \n \nWe developed a suite of integrated web applications for collect and interpret data from the business activities from the company, including sales, inventory management, client management and human resources for a construction company in Madrid, using CakePHP and JQuery. Also design, development and implementation of websites with CMS like Joomla and Wordpress. "
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
               {
                 "name": "MySQL",
                 "type": "technology"
               },
               {
-                "name": "Apache",
+                "name": "Nginx",
                 "type": "technology"
               },
               {
-                "name": "jQuery",
+                "name": "PHP",
                 "type": "technology"
               }
             ]
@@ -254,15 +182,7 @@
             ],
             "competences": [
               {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
                 "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
                 "type": "technology"
               },
               {
@@ -270,11 +190,85 @@
                 "type": "technology"
               },
               {
-                "name": "jQuery",
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
                 "type": "technology"
               },
               {
                 "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Coidesit S.L."
+        },
+        "roles": [
+          {
+            "name": "Programmer Analyst",
+            "startDate": "2006-08-01",
+            "finishDate": "2008-09-01",
+            "challenges": [
+              {
+                "description": "I worked as senior programmer in this “startup” company. We used Agile development in PHP, Javascript, HTML and CSS, following best practices, and \ndesign patterns like DataMapper and MVC, testing, version control with Subversion. \n \nWe developed a suite of integrated web applications for collect and interpret data from the business activities from the company, including sales, inventory management, client management and human resources for a construction company in Madrid, using CakePHP and JQuery. Also design, development and implementation of websites with CMS like Joomla and Wordpress. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DATACYL"
+        },
+        "roles": [
+          {
+            "name": "Junior Programmer",
+            "startDate": "2005-08-01",
+            "finishDate": "2006-08-01",
+            "challenges": [
+              {
+                "description": "I worked as junior programmer developing applications in Java, PHP and Oracle Databases for the healthcare system of Castilla y León, Cantabria and La Rioja."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
                 "type": "technology"
               }
             ]
@@ -286,10 +280,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English"
       },
       {
-        "name": "English"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
