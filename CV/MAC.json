@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -14,7 +14,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/24/3ca54d18-5339-4f12-83a7-73bde0570bfd_avatar2.png"
       },
       "location": {
-        "notes": "Valladolid, Spain"
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Valladolid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -280,16 +283,30 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -301,25 +318,13 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -345,6 +350,15 @@
           "URL": "https://www.linkedin.com/in/victor-calzon-55847916/"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Tech Lead"
+      ]
+    },
+    "status": "openToOffers"
   }
 }
