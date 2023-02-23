@@ -8,7 +8,8 @@
     "profile": {
       "name": "Victor",
       "surnames": "Calzon",
-      "description": "Hi! I'm Victor and I've been developing for the web for almost 15 years already. I have experience in really small startups building the whole product and also in very big companies leading technical teams on isolated processes. I have experience in both BE (PHP, Node and Java mostly) and FE, but during these last years I´ve been more focused on FE (React and Angular).\nI'm very passionate about clean architectures (DDD, hexagonal...) and quality processes (TDD, code review, pair programming) to achieve great maintainable code.",
+      "title": "",
+      "description": "",
       "avatar": {
         "alt": "avatar2.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/24/3ca54d18-5339-4f12-83a7-73bde0570bfd_avatar2.png"
@@ -49,6 +50,11 @@
           {
             "name": "Staff Software Engineer (Frontend)",
             "startDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Docker",
@@ -359,6 +365,6 @@
         "Tech Lead"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively"
   }
 }
