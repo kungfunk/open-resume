@@ -42,7 +42,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "Auctane"
+          "name": "Auctane",
+          "URL": "https://auctane.com"
         },
         "roles": [
           {
