@@ -53,7 +53,8 @@
       },
       {
         "organization": {
-          "name": "Packlink"
+          "name": "Packlink",
+          "URL": "https://www.packlink.com"
         },
         "roles": [
           {
