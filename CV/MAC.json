@@ -51,6 +51,10 @@
             "startDate": "2022-08-01",
             "competences": [
               {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
                 "name": "New Relic",
                 "type": "technology"
               },
