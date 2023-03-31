@@ -48,7 +48,21 @@
         "roles": [
           {
             "name": "Principal Advisor",
-            "startDate": "2022-08-01"
+            "startDate": "2022-08-01",
+            "competences": [
+              {
+                "name": "New Relic",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Scala",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
