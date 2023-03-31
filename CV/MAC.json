@@ -85,6 +85,11 @@
             "name": "Staff Software Engineer (Frontend)",
             "startDate": "2020-09-01",
             "finishDate": "2022-08-01",
+            "challenges": [
+              {
+                "description": "**Responsibilities**\n- Lead the frontend area \n- Work closely with product to ensure quality and business fit\n\n**Achievements**\n- Add new WoW and processes for the area\n- Implement DDD and microfrontend patterns in the frontend architecture and React good practices\n- Enable multi-tenant feature in the authentication system"
+              }
+            ],
             "competences": [
               {
                 "name": "Google Cloud",
