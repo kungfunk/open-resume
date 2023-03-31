@@ -1,14 +1,15 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Victor",
       "surnames": "Calzon",
-      "description": "Hi!, I'm Victor and I've been around for a almost 20 years building products on the web, both big and small. I have experience in Backend, Frontend and even in DevOps, when things were less complex. \nThis last 5 years i've been more focused on the Frontend side, as individual contributor and also leading teams (and even the whole area) working very closely with business. \nI worked as freelance, consultant and a part of product team, which is the one I enjoyed the most, so im looking for new opportunities in small and mid-size business oriented companies.",
+      "title": "",
+      "description": "Hi!, I'm Victor and I've been around for a almost 20 years building products on the web. I have experience in Backend and Frontend, building from scratch or in very large organizations.\nThis last 7 years i've been more focused on the Frontend side, as individual contributor and leading teams (and even the whole areas) working very closely with business.\nI worked as freelance, consultant and a part of product team, which is the one I enjoyed the most, so im looking for new opportunities in small and mid-size business oriented companies.",
       "avatar": {
         "alt": "avatar2.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/24/3ca54d18-5339-4f12-83a7-73bde0570bfd_avatar2.png"
@@ -16,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Valladolid"
+        "municipality": "Valladolid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -329,10 +331,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -402,6 +406,7 @@
         "Full-stack Developer",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
