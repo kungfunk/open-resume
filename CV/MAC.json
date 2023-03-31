@@ -78,11 +78,15 @@
             "finishDate": "2022-08-01",
             "competences": [
               {
-                "name": "Docker",
+                "name": "Google Cloud",
                 "type": "technology"
               },
               {
                 "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
                 "type": "technology"
               },
               {
