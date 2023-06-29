@@ -1,39 +1,27 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Victor",
       "surnames": "Calzon",
-      "title": "",
+      "title": "Title",
       "description": "Hi!, I'm Victor and I've been around for a almost 20 years building products on the web. I have experience in Backend and Frontend, building from scratch or in very large organizations.\nThis last 7 years i've been more focused on the Frontend side, as individual contributor and leading teams (and even the whole areas) working very closely with business.\nI worked as freelance, consultant and a part of product team, which is the one I enjoyed the most, so im looking for new opportunities in small and mid-size business oriented companies.",
       "avatar": {
-        "alt": "avatar2.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/24/3ca54d18-5339-4f12-83a7-73bde0570bfd_avatar2.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/24/3ca54d18-5339-4f12-83a7-73bde0570bfd_avatar2.png",
+        "alt": "avatar2.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJk27GCIxyRw0R72uiHNSS_7M)",
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Valladolid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valladolid"
       }
     },
     "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/kungfunk"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/kungfunk"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/victor-calzon-55847916/"
-      },
       {
         "type": "other",
         "URL": "https://www.youtube.com/watch?v=wsO2-9zzwLg"
@@ -331,11 +319,11 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -343,12 +331,6 @@
       {
         "skill": {
           "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
           "type": "technology"
         }
       },
@@ -366,19 +348,19 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
@@ -387,6 +369,32 @@
           "name": "Sass",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -394,8 +402,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/victor-calzon-55847916/"
+          "URL": "https://www.linkedin.com/in/victor-calzon-55847916/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/kungfunk",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/kungfunk",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "victor@victorcalzon.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "658075506",
+          "countryCode": "+34"
         }
       ]
     },
@@ -408,5 +433,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My dream job would be a Tech Lead or Lead Developer position in a small to medium size company where I can use my experience to mentor other developers and define processes to develop better code. Im based on Valladolid and as there is not much tech industry here I would like to apply to remote positions. I have years of experience working on distributed and multicultural teams."
   }
 }
