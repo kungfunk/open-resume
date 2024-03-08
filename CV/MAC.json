@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -22,6 +22,18 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/victor-calzon-55847916/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/kungfunk"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/kungfunk"
+      },
       {
         "type": "other",
         "URL": "https://www.youtube.com/watch?v=wsO2-9zzwLg"
@@ -320,10 +332,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -416,12 +430,6 @@
       ],
       "contactMails": [
         "victor@victorcalzon.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "658075506",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
