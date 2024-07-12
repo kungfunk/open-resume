@@ -8,7 +8,7 @@
     "profile": {
       "name": "Victor",
       "surnames": "Calzon",
-      "title": "Title",
+      "title": "%%HEADLINE%%",
       "description": "Hi!, I'm Victor and I've been around for a almost 20 years building products on the web. I have experience in Backend and Frontend, building from scratch or in very large organizations.\nThis last 7 years i've been more focused on the Frontend side, as individual contributor and leading teams (and even the whole areas) working very closely with business.\nI worked as freelance, consultant and a part of product team, which is the one I enjoyed the most, so im looking for new opportunities in small and mid-size business oriented companies.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/24/3ca54d18-5339-4f12-83a7-73bde0570bfd_avatar2.png",
@@ -138,7 +138,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -311,7 +311,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -356,7 +356,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -442,6 +442,24 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "My dream job would be a Tech Lead or Lead Developer position in a small to medium size company where I can use my experience to mentor other developers and define processes to develop better code. Im based on Valladolid and as there is not much tech industry here I would like to apply to remote positions. I have years of experience working on distributed and multicultural teams."
   }
 }
